@@ -1,0 +1,7 @@
+backend/db.sqlite3
+.venv/
+frontend-web/node_modules/
+backend/db.sqlite3
+backend/media/
+__pycache__/
+*.pyc
