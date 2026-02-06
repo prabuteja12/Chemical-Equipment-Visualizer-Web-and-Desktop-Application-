@@ -121,11 +121,3 @@ sample_equipment_data.csv
 - **Auth errors**: set `REQUIRE_AUTH=0` or supply credentials.
 - **Email errors**: verify SMTP settings and app password.
 
-## Submission Checklist
-- Push repo with backend + web + desktop.
-- README present (this file).
-- 2?3 minute demo video.
-- Optional web deployment link.
-
----
-If you want, I can add a short demo script or a GitHub push guide.
